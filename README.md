@@ -2,4 +2,5 @@
 
 I have no clue what I'm doing!
 
-https://cdn.discordapp.com/attachments/1050657209241042964/1072715238639673354/32735C99-FDA2-496A-B08C-CA6AE302A30F.jpg
+![image](https://user-images.githubusercontent.com/98936394/217441702-7ee4f068-332f-46ce-a6b9-6fe26615157d.png)
+
