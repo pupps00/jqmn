@@ -2,5 +2,4 @@
 
 I have no clue what I'm doing!
 
-<img src="(https://cdn.discordapp.com/attachments/1050657209241042964/1072715238639673354/32735C99-FDA2-496A-B08C-CA6AE302A30F.jpg)" width="100" height="100">
-
+![32735C99-FDA2-496A-B08C-CA6AE302A30F (1)](https://user-images.githubusercontent.com/98936394/217442576-ad303720-5685-47d3-91fd-0926f9e9071b.jpg)
